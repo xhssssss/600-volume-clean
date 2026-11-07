@@ -1,0 +1,1 @@
+var d=(t=>(t.scriptLoaded="scriptLoaded",t.changeSoundVolume="changeSoundVolume",t.tabCaptured="tabCaptured",t.removeAudioState="removeAudioState",t.getSoundVolume="getSoundVolume",t.getTagged="getTagged",t))(d||{});export{d as W};
